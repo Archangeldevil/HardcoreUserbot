@@ -1,7 +1,7 @@
 {
-  "name": "HardcoreUserbot",
-  "description": "Userbot created by a @Hack12R, Join https://t.me/HardcoreUserbot for any problems or support",
-  "logo": "https://telegra.ph/file/1b1304649ee3ecd281322.jpg",
+  "name": "Alfrozen_Userbot",
+  "description": "Userbot created by a @Mukui_kun.",
+  "logo": "https://telegra.ph/file/4cc3a8b81dc3c727a281c.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -31,7 +31,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value by running python3 telesetup.py locally",
+      "description": "Get this value by @STRING_SESSION_GENERATORBOT only. ❗ Use only @STRING_SESSION_GENERATORBOT this bot to generate string session because we have our own format❗",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
