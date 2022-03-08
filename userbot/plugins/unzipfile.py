@@ -1,8 +1,3 @@
-""" command: .unzip
-coded by @By_Azade
-code rewritten my SnapDragon7410
-"""
-
 import asyncio
 import os
 import time
