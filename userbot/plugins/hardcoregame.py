@@ -2,7 +2,7 @@
 Available Commands:
 click gift as soon as fast as possible
 .game
-build by @Hack12R.."""
+"""
 from telethon import events
 import asyncio
 
