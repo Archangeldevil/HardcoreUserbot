@@ -1,5 +1,4 @@
 """Fun pligon...for HardcoreUserbot
-\nCode by @Hack12R
 type `.degi` and `.nehi` to see the fun.
 """
 import random, re
