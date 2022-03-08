@@ -1,4 +1,3 @@
-# plugin by lejend @r4r4n4
 """Emoji
 
 Available Commands:
