@@ -1,7 +1,3 @@
-# For @UniBorg
-
-# Courtesy @yasirsiddiqui
-
 """
 
 .leave
