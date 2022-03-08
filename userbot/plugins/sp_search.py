@@ -1,8 +1,6 @@
 """
 StartPage Search Plugin for Userbot . //Alternative to Google Search
 cmd : .sch search_query 
-By: @Zero_cool7870
-
 """
 
 import os
