@@ -1,7 +1,6 @@
 """
 Say something interesting...
 Syntax: .smd
-    by @Hack12R
 Dialogues credit: To their Writers Sed
 """
 
